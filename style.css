@@ -98,6 +98,10 @@ footer p {
 	color: #f06543;
 }
 
+footer dt {
+	color: #f06543;
+}
+
 #trees_img {
 	float: right;
 	margin-left: 20px;
