@@ -45,7 +45,7 @@ p, h1, h2, h3, h4, h5 {
 }
 
 a {
-	color: #586555;
+	color: #f06543;
 	text-decoration: underline;
 }
 
@@ -85,6 +85,17 @@ h3 {
 
 blockquote {
 	text-align: center;
+}
+
+footer {
+	margin-top: 15px;
+	padding: 10px 0;
+	background-color: #18206f;
+	text-align: center;
+}
+
+footer p {
+	color: #f06543;
 }
 
 #trees_img {
